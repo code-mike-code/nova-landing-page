@@ -1,5 +1,5 @@
 
-![header section](./assets/screen.png)
+![header section](./assets/header-screen.png)
 
 
 # Project task-01 - website build from mockup
