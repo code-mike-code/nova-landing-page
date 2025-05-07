@@ -4,7 +4,7 @@
 
 # Project of website build from free mockup
 
-See the live version of [website build from mockup](https://code-mike-code.github.io/nova-landing-page/).
+See the live version of [Nova website](https://code-mike-code.github.io/nova-landing-page/).
 
 Project made as a task during learning process with my mentor program [devmentor.pl](https://devmentor.pl/). This project showcases a solid foundation in HTML5 semantics, ensuring clean and accessible markup that complies with modern web standards. It incorporates CSS3 basics to deliver visually appealing styles while maintaining simplicity and efficiency. Additionally, the BEM methodology is employed to organize and structure the CSS, enabling modularity and maintainable code.
 
