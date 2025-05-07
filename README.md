@@ -2,7 +2,7 @@
 ![header section](./assets/header-screen.png)
 
 
-# Project task-01 - website build from mockup
+# Project of website build from free mockup
 
 See the live version of [website build from mockup](https://code-mike-code.github.io/nova-landing-page/).
 
